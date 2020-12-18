@@ -15,3 +15,7 @@ Détail des infos récupérées :
 5 - Infos sur l'état de l'imprimante par défaut
 
 6 - Derniers logs système en erreur
+
+
+
+Possibilité de packer le script en éxecutable avec ps2exe : https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5
