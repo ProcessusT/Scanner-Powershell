@@ -18,4 +18,6 @@ Détail des infos récupérées :
 
 
 
-Possibilité de packer le script en éxecutable avec ps2exe : https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5
+Possibilité de packer le script en éxecutable avec ps2exe (inclus sous format zip, sinon dispo ici : https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5)
+
+L'idéal est d'héberger soi-même le scanner et de créer un exécutable avec le launcher pour le déployer simplement
